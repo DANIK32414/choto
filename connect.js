@@ -13,7 +13,7 @@
         "zone": "https://i.ibb.co/QNyZ9Rj/zone.png"
 
     }, "weapon": {
-        "0": "antipovka\\weapon\\0.png",
+        "0": "Пон",
         "1": "https://i.ibb.co/xF4rwt5/1.png",
         "2": "https://i.ibb.co/VTsZk7t/2.png",
         "3": "https://i.ibb.co/Rbq4vk3/3.png",
@@ -36,14 +36,14 @@
         "20": "https://i.ibb.co/pvcdsnM/20.png",
         "22": "https://i.ibb.co/94NZ4y1/22.png",
         "23": "https://i.ibb.co/8dktTPJ/23.png",
-        "24": "antipovka\\weapon\\24.png",
-        "25": "antipovka\\weapon\\25.png",
+        "24": "Пон",
+        "25": "Пон",
         "26": "https://i.ibb.co/tzHNHN9/26.png",
         "27": "https://i.ibb.co/ZmGqDrX/27.png",
         "28": "https://i.ibb.co/7VzYDMN/28.png",
         "29": "https://i.ibb.co/LYvTWWL/29.png",
         "30": "https://i.ibb.co/r5HjDQP/30.png",
-        "31": "antipovka\\weapon\\31.png",
+        "31": "Пон",
         "32": "https://i.ibb.co/T4wZ4kS/32.png",
         "33": "https://i.ibb.co/QQNwPbq/33.png",
         "34": "https://i.ibb.co/3B4TLGb/34.png",
